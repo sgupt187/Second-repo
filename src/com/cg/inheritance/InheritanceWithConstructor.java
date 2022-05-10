@@ -18,7 +18,7 @@ class Derived{
 	int y;
 	Derived(){
 		super();
-		 System.out.println("hi");
+		 System.out.println("I am derived class");
 	}
 	Derived (int y){
 		super();
